@@ -1,0 +1,17 @@
+[
+    {
+        "description": "Maça",
+        "price": 3,
+        "sale_type": "VOLUME"
+    },
+    {
+        "description": "Banana",
+        "price": 4.9,
+        "sale_type": "VOLUME"
+    },
+    {
+        "description": "Alface",
+        "price": 3.1,
+        "sale_type": "UNIT"
+    }
+]

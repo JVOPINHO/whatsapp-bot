@@ -1,0 +1,11 @@
+node_modules
+out
+yarn.lock
+yarn-error.log
+
+package-lock.json
+
+ignore.*
+
+.VSCodeCounter
+.wwebjs_cache
