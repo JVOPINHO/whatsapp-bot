@@ -60,13 +60,3 @@ client.on('ready', () => {
 });
 
 client.initialize();
-
-async function main() {
-	// const buffer = Buffer.from((await QRCode.toBuffer('https://www.youtube.com/watch?v=oavMtUWDBTM')).buffer);
-
-	// const base64String = buffer.toString('base64');
-
-	QRCode.toFile(`${process.cwd()}/2327373.png`, 'https://www.youtube.com/watch?v=oavMtUWDBTM');
-}
-
-main();
